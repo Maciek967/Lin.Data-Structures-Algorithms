@@ -28,7 +28,7 @@ public class exercises {
 	 */
 	public void ex1(){
 		//TO BE COMPLETED
-		System.out.println("Hello");
+		System.out.println("M.G");
 	}
 
 	//----------------------------------------------
