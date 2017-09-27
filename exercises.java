@@ -6,7 +6,7 @@ import java.util.Random;
 
 /**
  * The class contains the 8 methods to fulfill in the exam. 
- * @author Ignacio.Castineiras
+ * @author M.G
  *
  */
 public class exercises {
@@ -28,7 +28,7 @@ public class exercises {
 	 */
 	public void ex1(){
 		//TO BE COMPLETED
-		System.out.println("GAY");
+		System.out.println("Hello");
 	}
 
 	//----------------------------------------------
