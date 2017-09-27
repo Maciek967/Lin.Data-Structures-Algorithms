@@ -3,7 +3,7 @@
 
 /**
  * The class tests the 8 exercises of the exam. 
- * @author Ignacio.Castineiras
+ * @author M.G
  *
  */
 public class myMain {
